@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Depths of the Ocean",
+    "content": "Discover the hidden treasures and marine life found deep in the ocean.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fG9jZWFufGVufDB8fHx8MTY5MDAxMTUzMw&ixlib=rb-4.0.3&q=80&w=1080",
+    "author": "John Doe",
+    "date": "2024-07-01"
+  },
+  {
+    "id": 2,
+    "title": "The Future of AI Technology",
+    "content": "An in-depth look at how artificial intelligence is shaping our world.",
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Future_Of_Artificial_Intelligence.jpg",
+    "author": "Jane Smith",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 3,
+    "title": "A Journey Through the Amazon Rainforest",
+    "content": "Experience the vibrant ecosystem and diverse wildlife of the Amazon.",
+    "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/12/33/6b/88.jpg",
+    "author": "Alice Johnson",
+    "date": "2024-07-03"
+  },
+  {
+    "id": 4,
+    "title": "Advancements in Renewable Energy",
+    "content": "Exploring the latest technologies in solar, wind, and hydro power.",
+    "image": "https://media.licdn.com/dms/image/D5612AQFf0Dy8QwWp3g/article-cover_image-shrink_600_2000/0/1685346522317?e=2147483647&v=beta&t=p56lHxijlDXJy2VwxtSCBUfn4tTvxdTKb23sTSen9cE",
+    "author": "Bob Brown",
+    "date": "2024-07-04"
+  },
+  {
+    "id": 5,
+    "title": "The Art of Culinary Masterpieces",
+    "content": "A deep dive into the world of gourmet cooking and high-end cuisine.",
+    "image": "https://vitalentum.net/upload/007/u728/0/8/exquisite-stir-fry-cooking-a-chef-s-culinary-masterpiece-photo-photos-big.webp",
+    "author": "Carol White",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 6,
+    "title": "Space Exploration: Past, Present, and Future",
+    "content": "From the moon landing to Mars missions, a comprehensive overview of space exploration.",
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*LrzNcHOwHDXgc8ZNXl8MSA.png",
+    "author": "David Green",
+    "date": "2024-07-06"
+  },
+  {
+    "id": 7,
+    "title": "The Wonders of Ancient Civilizations",
+    "content": "Uncover the mysteries and achievements of ancient societies.",
+    "image": "http://media.mlive.com/travel_impact/photo/7ancwondersgiza375jpg-b279e6e9e9c928e5_large.jpg",
+    "author": "Eve Black",
+    "date": "2024-07-07"
+  },
+  {
+    "id": 8,
+    "title": "Innovations in Modern Architecture",
+    "content": "A look at the cutting-edge designs and structures in contemporary architecture.",
+    "image": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE2OTAwMTE4Njg&ixlib=rb-4.0.3&q=80&w=1080",
+    "author": "Frank Wilson",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 9,
+    "title": "The Impact of Climate Change",
+    "content": "Understanding the effects of climate change on our planet and future.",
+    "image": "https://science.nasa.gov/wp-content/uploads/2023/11/Effects_page_triptych.jpeg?w=2048&format=webp",
+    "author": "Grace Lee",
+    "date": "2024-07-09"
+  },
+  {
+    "id": 10,
+    "title": "The Evolution of Music Genres",
+    "content": "Tracing the development of various music genres through the decades.",
+    "image": "https://5minuteenglish.com/wp-content/uploads/2024/03/Exploring-English-Through-Different-Genres-of-Music-2.webp",
+    "author": "Henry King",
+    "date": "2024-07-10"
+  }
+]
